@@ -1,0 +1,266 @@
+.topdiv{
+    background-image: url("../backgrounds/h_img.jpg");
+    box-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.headingtext{
+    color: white;
+    text-align: center;
+}
+
+.topdivimg{
+    margin-left: 500px;
+}
+
+.topdivimg2{
+    margin-left: 550px;
+}
+.twodiv{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.threediv{
+    background-image: url("../backgrounds/s_image.jpg");
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.fourdiv{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.whatwedoicons{
+    align-items: center;
+    padding-left: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.designexplain{
+    display: none;
+    text-align: center;
+}
+.devexplain{
+    display: none;
+    text-align: center;
+}
+.pmexplain{
+    display: none;
+    text-align: center;
+}
+
+.portfolioimg{
+    
+    min-height: 214px;
+    min-width: 280px;
+}
+
+.div3text{
+    color: white;
+    text-align: center;
+}
+
+.divheading{
+    text-align: center;
+}
+
+.contactusdiv{
+    background-image: url("../backgrounds/c_image.jpg");
+}
+
+.txtnemail{
+    align: center;
+}
+
+.contactformin{
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    
+}
+#txname{
+    margin-left: 100px;
+    width: 400px;
+}
+#txemail{
+    margin-left:10px;
+    width: 420px;
+}
+#txtmsg{
+    margin-left: 150px;
+    
+}
+.contactdiv{
+    background-color: transparent;
+    border: none;
+}
+.contactusdiv{
+    margin-top: 40px;
+    
+}
+.socialdiv{
+    margin-top: 50px;
+}
+.div3head{
+    padding-top: 50px;
+}
+.middlesocial{
+    align-items: center;
+    margin-left: 160px;
+}
+footer{
+    padding-top: 10px;
+    text-align: center;
+    
+}
+#footertxt{
+    padding-top: 25px;
+    font-size: 0.5em;
+}
+
+#portfolioimg1{
+    background-image: url("../portfolio/work4.jpg");
+}
+#hover1{
+    display: none;
+    margin-top: 20px;
+    margin: 10px;
+    border: solid;
+    border-color: white;
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 40px;
+}
+
+#portfolioimg2{
+    background-image: url("../portfolio/work3.jpg");
+}
+
+#hover2{
+    display: none;
+    margin-top: 20px;
+    margin: 10px;
+    border: solid;
+    border-color: green;
+    text-align: center;
+    color: rgb(42, 207, 42);
+    background-color: transparent;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg3{
+    background-image: url("../portfolio/work2.jpg");
+}
+
+#hover3{
+    display: none;
+    margin-top: 20px;
+    margin: 10px;
+    border: solid;
+    border-color:white;
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg4{
+    background-image: url("../portfolio/work1.jpg");
+}
+
+#hover4{
+    display: none;
+    margin-top: 20px;
+    margin: 10px;
+    border: solid;
+    border-color:white;
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg5{
+    background-image: url("../portfolio/work5.jpg");
+}
+
+#hover5{
+    display: none;
+    margin-top: 30px;
+    margin: 10px;
+    border: solid;
+    border-color:red;
+    text-align: center;
+    color: red;
+    background-color: transparent;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg6{
+    background-image: url("../portfolio/work6.jpg");
+}
+
+#hover6{
+    display: none;
+    margin-top: 30px;
+    margin: 10px;
+    border: solid;
+    border-color:blue;
+    text-align: center;
+    color: blue;
+    background-color: transparent;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg7{
+    background-image: url("../portfolio/work7.jpg");
+}
+
+#hover7{
+    display: none;
+    margin-top: 30px;
+    margin: 10px;
+    border: solid;
+    border-color:white;
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
+
+#portfolioimg8{
+    background-image: url("../portfolio/work8.jpg");
+}
+
+#hover8{
+    display: none;
+    margin-top: 30px;
+    margin: 10px;
+    border: solid;
+    border-color:white;
+    text-align: center;
+    color:white;
+    background-color: transparent;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    padding-left: 10px;
+}
