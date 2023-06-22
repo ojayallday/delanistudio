@@ -8,5 +8,5 @@ router.get("/", (req,res)=>{
 })
 
 //Export all routes
-module.exports = router;
-//exports.router = router;
+//module.exports = router;
+exports.router = router;

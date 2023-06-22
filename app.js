@@ -16,7 +16,7 @@ app.get('/protected', (req,res) => {
 app.set('view engine', "ejs")
 
 // set middleware
-app.use(homeRouter);
+app.use(homeRouter.router);
 
 app.listen(5500, ()=>{
     console.log("Application is starting...")
