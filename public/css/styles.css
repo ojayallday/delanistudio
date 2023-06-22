@@ -1,5 +1,5 @@
 .topdiv{
-    background-image: url("../backgrounds/h_img.jpg");
+    background-image: url("../images/backgrounds/h_img.jpg");
     box-align: center;
     font-family: 'Roboto', sans-serif;
     padding-top: 20px;
@@ -24,7 +24,7 @@
     padding-bottom: 20px;
 }
 .threediv{
-    background-image: url("../backgrounds/s_image.jpg");
+    background-image: url("../images/backgrounds/s_image.jpg");
     padding-top: 30px;
     padding-bottom: 20px;
 }
@@ -69,11 +69,11 @@
 }
 
 .contactusdiv{
-    background-image: url("../backgrounds/c_image.jpg");
+    background-image: url("../images/backgrounds/c_image.jpg");
 }
 
 .txtnemail{
-    align: center;
+    text-align: center;
 }
 
 .contactformin{
@@ -123,7 +123,7 @@ footer{
 }
 
 #portfolioimg1{
-    background-image: url("../portfolio/work4.jpg");
+    background-image: url("../images/portfolio/work4.jpg");
 }
 #hover1{
     display: none;
@@ -140,7 +140,7 @@ footer{
 }
 
 #portfolioimg2{
-    background-image: url("../portfolio/work3.jpg");
+    background-image: url("../images/portfolio/work3.jpg");
 }
 
 #hover2{
@@ -158,7 +158,7 @@ footer{
 }
 
 #portfolioimg3{
-    background-image: url("../portfolio/work2.jpg");
+    background-image: url("../images/portfolio/work2.jpg");
 }
 
 #hover3{
@@ -176,7 +176,7 @@ footer{
 }
 
 #portfolioimg4{
-    background-image: url("../portfolio/work1.jpg");
+    background-image: url("../images/portfolio/work1.jpg");
 }
 
 #hover4{
@@ -194,7 +194,7 @@ footer{
 }
 
 #portfolioimg5{
-    background-image: url("../portfolio/work5.jpg");
+    background-image: url("../images/portfolio/work5.jpg");
 }
 
 #hover5{
@@ -212,7 +212,7 @@ footer{
 }
 
 #portfolioimg6{
-    background-image: url("../portfolio/work6.jpg");
+    background-image: url("../images/portfolio/work6.jpg");
 }
 
 #hover6{
@@ -230,7 +230,7 @@ footer{
 }
 
 #portfolioimg7{
-    background-image: url("../portfolio/work7.jpg");
+    background-image: url("../images/portfolio/work7.jpg");
 }
 
 #hover7{
@@ -248,7 +248,7 @@ footer{
 }
 
 #portfolioimg8{
-    background-image: url("../portfolio/work8.jpg");
+    background-image: url("../images/portfolio/work8.jpg");
 }
 
 #hover8{
