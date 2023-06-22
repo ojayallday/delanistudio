@@ -7,4 +7,6 @@ router.get("/", (req,res)=>{
     res.render("home",{})
 })
 
-exports.router = router;
+//Export all routes
+module.exports = router;
+//exports.router = router;
